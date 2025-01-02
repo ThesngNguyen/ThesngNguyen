@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## About Me
 
 - 🌐 **Website:** [Portfolio](https://ThesngNguyen.github.io/portfolio)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/williamnguyeenx/)
+- 💼 **LinkedIn:** [ThesngNguyeenx](https://www.linkedin.com/in/williamnguyeenx/)
 - 📧 **Email:** ncthang151002@gmail.com
 
 ## Skills
@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThesngNguyen&show_icons=true&theme=radical)
 
-## Top Languages
+## GitHub Trophies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThesngNguyen&layout=compact&theme=radical)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Let's Connect!
 
