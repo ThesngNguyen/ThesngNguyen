@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Thang Nguyen! 👋
 
-<!--
-**ThesngNguyen/ThesngNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and contributing to the tech community.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Website:** [Portfolio](https://ThesngNguyen.github.io/portfolio)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/williamnguyeenx/)
+- 📧 **Email:** ncthang151002@gmail.com
+
+## Skills
+
+- **Languages:** TypeScript, Dart 
+- **Frameworks / Library::** React, Node.js, NestJS, NextJS
+- **Tools:** Git/Github, Postman
+- **Databases:** MySQL, MongoDB, PostgreSQL
+
+## GitHub Stats
+
+![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThesngNguyen&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThesngNguyen&layout=compact&theme=radical)
+
+## Let's Connect!
+
+I'm always open to collaborating on projects and innovative ideas. Feel free to reach out to me through any of the platforms listed above.
+
