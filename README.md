@@ -1,19 +1,21 @@
-# Hi there, I'm Thang Nguyen! 👋
+# Hi there, I'm Thang Nguyen Cao aka William! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and contributing to the tech community.
+I'm a passionate Web Developer with a keen interest in crafting innovative, cutting-edge solutions and actively contributing to the tech community!
 
-## About Me
+![](https://komarev.com/ghpvc/?username=ThesngNguyen&color=blue)
 
-- 🌐 **Website:** [Portfolio](https://ThesngNguyen.github.io/portfolio)
-- 💼 **LinkedIn:** [ThesngNguyeenx](https://www.linkedin.com/in/williamnguyeenx/)
+## Reach out
+
+- 🌐 **Website:** [ThesngNguyeenx.dev][portfolio]
+- 💼 **LinkedIn:** [ThesngNguyeenx][linkedin]
 - 📧 **Email:** ncthang151002@gmail.com
 
-## Skills
+## My Projects
 
-- **Languages:** TypeScript, Dart 
-- **Frameworks / Library::** React, Node.js, NestJS, NextJS
-- **Tools:** Git/Github, Postman
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- [`kidney-desease-diagnosis`](https://github.com/ThesngNguyen/MachineLearning_Kidney_Disease): A machine learning-powered application designed to assist in the early detection and management of kidney diseases
+- [`chrome-extension-algorithmic-complexity`](https://github.com/ThesngNguyen/chrome-extension-algorithmic-complexity): Analyze and visualize algorithmic complexity directly in your browser with this Chrome extension
+- [`IoT-employee-attendance`](https://github.com/ThesngNguyen/IoT_EmployeeRFIDCheck): An automates real-time attendance tracking using connected devices, ensuring accuracy and efficiency in workforce management
+- [`discord-bot`](https://github.com/ThesngNguyen/YangHoVui): A 24/7 Discord Bot built for local homies, offering music, games, and chill vibes to keep the server lively and fun all night long
 
 ## GitHub Stats
 
@@ -23,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Let's Connect!
-
-I'm always open to collaborating on projects and innovative ideas. Feel free to reach out to me through any of the platforms listed above.
+[portfolio]: https://ThesngNguyen.github.io/portfolio
+[linkedin]: https://www.linkedin.com/in/williamnguyeenx/
 
