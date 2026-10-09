@@ -14,3 +14,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: billtruong003/git-profile-awaken@main
+        with:
+          token: ${{ secrets.AWAKEN_TOKEN }}
