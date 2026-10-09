@@ -6,8 +6,8 @@ I'm a passionate Web Developer with a keen interest in crafting innovative, cutt
 
 ## Reach out
 
-- 🌐 **Website:** [ThesngNguyeenx.dev][portfolio]
-- 💼 **LinkedIn:** [ThesngNguyeenx][linkedin]
+- 🌐 **Website:** [Portfolio](https://ThesngNguyen.github.io/portfolio)
+- 💼 **LinkedIn:** [ThesngNguyeenx](https://www.linkedin.com/in/williamnguyeenx/)
 - 📧 **Email:** ncthang151002@gmail.com
 
 <!-- AWAKEN:START -->
