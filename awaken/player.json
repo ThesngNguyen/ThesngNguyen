@@ -48,7 +48,22 @@
       "percentile": 0.8348183849229494
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "unbroken",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-27T05:29:09.493Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "diligent",
+      "from": "0",
+      "to": "2",
+      "at": "2026-10-27T05:29:09.493Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -72,8 +87,8 @@
     },
     {
       "id": "unbroken",
-      "tier": 0,
-      "value": 5
+      "tier": 1,
+      "value": 13
     },
     {
       "id": "night-owl",
@@ -88,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 0
+      "value": 9
     },
     {
       "id": "gate-opener",
@@ -138,12 +153,12 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 15
+      "value": 16
     },
     {
       "id": "diligent",
-      "tier": 0,
-      "value": 25
+      "tier": 2,
+      "value": 285
     },
     {
       "id": "daily-grinder",
@@ -286,5 +301,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-10-26T21:35:34.142Z"
+  "syncedAt": "2026-10-27T05:29:09.493Z"
 }
